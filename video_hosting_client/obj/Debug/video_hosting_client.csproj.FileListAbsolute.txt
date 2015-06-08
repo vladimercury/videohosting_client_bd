@@ -1,0 +1,11 @@
+c:\users\vladimir\documents\visual studio 2012\Projects\video_hosting_client\video_hosting_client\bin\Debug\video_hosting_client.exe.config
+c:\users\vladimir\documents\visual studio 2012\Projects\video_hosting_client\video_hosting_client\bin\Debug\video_hosting_client.exe
+c:\users\vladimir\documents\visual studio 2012\Projects\video_hosting_client\video_hosting_client\bin\Debug\video_hosting_client.pdb
+c:\users\vladimir\documents\visual studio 2012\Projects\video_hosting_client\video_hosting_client\obj\Debug\video_hosting_client.csprojResolveAssemblyReference.cache
+c:\users\vladimir\documents\visual studio 2012\Projects\video_hosting_client\video_hosting_client\obj\Debug\video_hosting_client.Properties.Resources.resources
+c:\users\vladimir\documents\visual studio 2012\Projects\video_hosting_client\video_hosting_client\obj\Debug\video_hosting_client.csproj.GenerateResource.Cache
+c:\users\vladimir\documents\visual studio 2012\Projects\video_hosting_client\video_hosting_client\obj\Debug\video_hosting_client.exe
+c:\users\vladimir\documents\visual studio 2012\Projects\video_hosting_client\video_hosting_client\obj\Debug\video_hosting_client.pdb
+c:\users\vladimir\documents\visual studio 2012\Projects\video_hosting_client\video_hosting_client\obj\Debug\video_hosting_client.AuthorizationForm.resources
+c:\users\vladimir\documents\visual studio 2012\Projects\video_hosting_client\video_hosting_client\obj\Debug\video_hosting_client.RegistrationForm.resources
+C:\Users\Vladimir\documents\visual studio 2012\Projects\video_hosting_client\video_hosting_client\obj\Debug\video_hosting_client.MainBrowser.resources
